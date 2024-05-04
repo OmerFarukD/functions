@@ -1,0 +1,25 @@
+
+ 
+java:S1488&"]Immediately return this expression instead of assigning it to the temporary variable "sayi2".(èÄ™Ğ8æÒõ–ô1J$409b04c7-683c-4597-9930-5d62b8064c0e
+£
+java:S1488,"`Immediately return this expression instead of assigning it to the temporary variable "operator".(Í¨ª•8æÒõ–ô1J$c7bbda35-d0c3-4023-b32b-1def6c74b9f0
+ 
+java:S14883"]Immediately return this expression instead of assigning it to the temporary variable "sayi1".(ıé’œ8æÒõ–ô1J$6a0ad7ac-928c-4e72-8cdd-d8883e4b2fa8
+]
+java:S1220""Move this file to a named package.8çÒõ–ô1J$b94b6c30-486a-4330-9419-79a9fdc6ca01
+z
+java:S1135"2Complete the task associated to this TODO comment.(¤‰ä·şÿÿÿÿ8õÒõ–ô1J$3eff1b24-cd26-4d9d-a4a9-aa227e288df8
+m	java:S106"+Replace this use of System.out by a logger.(¦Ú¶¶8øÒõ–ô1J$35ed647b-34e8-400b-b118-08deb483e4d8
+r	java:S106"+Replace this use of System.out by a logger.(íú‹áÿÿÿÿÿ8ùÒõ–ô1J$0aaa97f4-dded-4663-a89c-35d0a8d9a755
+r	java:S106"+Replace this use of System.out by a logger.(ÕÙÙíøÿÿÿÿ8ùÒõ–ô1J$44d90761-b615-4c0a-829a-7588449d1778
+r	java:S106"+Replace this use of System.out by a logger.(œÕ­Äùÿÿÿÿ8úÒõ–ô1J$d0e85fc8-95e0-4d50-b8cc-fd6ef5382519
+r	java:S106"+Replace this use of System.out by a logger.(ö×¡ıÿÿÿÿ8úÒõ–ô1J$b5ad3a6b-3640-4ab2-9103-b2896018573c
+m	java:S106%"+Replace this use of System.out by a logger.(Éç¡¨8ûÒõ–ô1J$39894af8-0b31-4720-83b9-2e4c007a0b37
+r	java:S106+"+Replace this use of System.out by a logger.(äµ½ûÿÿÿÿ8Îıö–ô1J$cc803105-324f-4ea7-8720-4a0886d01237
+r	java:S1062"+Replace this use of System.out by a logger.(åéˆ ÿÿÿÿÿ8Îıö–ô1J$13a6dada-1e36-4031-b508-6379db5b81fc
+m	java:S106;"+Replace this use of System.out by a logger.(ì8Ïıö–ô1J$5768b483-f984-4745-8948-05808202a931
+m	java:S106X"+Replace this use of System.out by a logger.(İ†Â¯8Ğıö–ô1J$2d8c99be-4a38-4e3f-baeb-196fda1ec285
+m	java:S106]"+Replace this use of System.out by a logger.(†‚…’8Ğıö–ô1J$08ee40ab-dd0a-4e71-a557-a72fbfda0321
+|
+java:S3400c"9Remove this method and declare a constant for this value.(½ëª´8ûÒõ–ô1J$eab36729-f28e-4e97-96d5-36d4a0cdd7b2
+~	java:S125`"<This block of commented-out lines of code should be removed.(ê®ä÷8üÒõ–ô1J$38333caf-b5fd-424c-b066-64b0562b6c11
